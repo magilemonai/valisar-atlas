@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-import './chronicle.css';
 
 export const metadata: Metadata = {
   title: 'Valisar | Ash & Thunder',
@@ -12,5 +11,5 @@ export default function ChronicleLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return <div className="chronicle-theme">{children}</div>;
+  return children;
 }

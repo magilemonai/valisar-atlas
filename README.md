@@ -5,7 +5,7 @@ Two guided interactive artbooks from Cody Wymore’s original homebrew world, ho
 - **Living Atlas** at `/`: the original 28 maps and paintings, with regional map pins, chapter navigation and source notes.
 - **Ash & Thunder** at `/ash-and-thunder/`: 24 illustrations of wars, cinematic battles, cataclysms and imagined overseas conflicts, arranged into six chapters.
 
-A collection switch in both headers connects the books. Each retains its own visual style, plate links, zoomable viewer and comparisons between alternate treatments.
+Both collections use the same image-first reader: a shared header, chapter rail, page controls, gallery, field-notes drawer, zoom viewer and style comparison. A subtle background accent distinguishes maps from history. Existing plate links, atlas map pins and alternate treatments are preserved.
 
 ## Local development
 
@@ -34,7 +34,9 @@ Atlas passages live in `app/journey.ts`; atlas titles, captions and notes are in
 
 The history section lives in `app/ash-and-thunder/`. Its `plates.json` and `acts.json` contain captions, alt text, record classifications, source references and chapter introductions. Its 24 display images and 24 thumbnails live in `public/art/conflicts`.
 
-Chronicle styles are scoped to `.chronicle-theme`, including dialog portals, and use `conflict-` class names. Shared navigation is in `components/book-navigation.tsx`. Public links use `lib/site-path.ts` to respect the GitHub Pages repository prefix.
+The shared UI lives in `components/artbook/` and `app/globals.css`. `app/atlas-book.ts` and `app/ash-and-thunder/chronicle-book.ts` adapt the existing lore and artwork data into that reader without rewriting it. Shared collection navigation is in `components/book-navigation.tsx`; public links use `lib/site-path.ts` to respect the GitHub Pages repository prefix.
+
+Both books support arrow-key page turns, Home/End, browser Back/Forward, link copying, accessible chapter and gallery dialogs, full-screen zoom with pointer or keyboard panning, and reduced-motion preferences. Cached artwork is detected before revealing the image.
 
 The packaging step supplies directory indexes for direct route access and validates asset and navigation links in every exported HTML page. Vinext exports without its trailing-slash redirect so both routes can prerender successfully.
 

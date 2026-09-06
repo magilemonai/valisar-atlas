@@ -1,6 +1,5 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import './book-navigation.css';
 
 export const metadata: Metadata = {
   title: 'Valisar | A Living Atlas',
