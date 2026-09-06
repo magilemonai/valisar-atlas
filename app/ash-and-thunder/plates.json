@@ -1,0 +1,452 @@
+[
+  {
+    "id": "great-sundering",
+    "image": "01",
+    "act": 0,
+    "title": "The Great Sundering",
+    "line": "Before the borders, there was the breaking.",
+    "date": "Deep antiquity · c. 6,000 years ago",
+    "place": "The ancient continent",
+    "record": "Ancient chronicle",
+    "style": "Catastrophe in oil",
+    "text": "The old histories agree on the wound: a continent fractured, its cities divided by newborn seas. They disagree on what began it. Here, the land splits beneath a brilliance too great for the page to name.",
+    "detail": "Both ancient timelines describe a Sundering and the decline of the sorcerer-kings. The exact coastlines, cities, and instant shown here are an artistic reconstruction.",
+    "sources": [
+      "Worldbuilding master document · Ancient History, both timeline drafts"
+    ],
+    "look": "The waterfalls descending into newly opened fault lines.",
+    "variants": ["sundering-engraving"],
+    "alt": "Ancient cities split by an immense glowing fault, with waterfalls plunging into newly opened chasms beneath a storm-dark sky."
+  },
+  {
+    "id": "sundering-engraving",
+    "image": "02",
+    "act": 0,
+    "title": "A World in Pieces",
+    "line": "A catastrophe, remembered in the grain of a page.",
+    "date": "Deep antiquity · c. 6,000 years ago",
+    "place": "The ancient continent",
+    "record": "Ancient chronicle",
+    "style": "Copperplate remembrance",
+    "text": "A ruined bridge, a city cut in two, an ocean finding its way through stone. The same catastrophe survives here as an imagined engraving, worn into the language of an old atlas.",
+    "detail": "A second interpretation of the Great Sundering. The material damage to this imagined print does not come from a physical source artifact.",
+    "sources": [
+      "Worldbuilding master document · Ancient History, both timeline drafts"
+    ],
+    "look": "The delicate cities against the enormous white fracture.",
+    "variants": ["great-sundering"],
+    "alt": "A finely engraved panorama of a shattered continent, broken bridges and tiny cities divided by a vast white fracture."
+  },
+  {
+    "image": "03",
+    "id": "the-golden-blade",
+    "act": 1,
+    "title": "The Golden Blade",
+    "line": "The empire arrives at the city of curves.",
+    "date": "Imperial expansion · c. 600 years ago",
+    "place": "Aeldrya, the future Citidaea",
+    "record": "Historical record",
+    "style": "Imperial battle painting",
+    "text": "Tyserion I brings his armies to Aeldrya. The city that will become Citidaea stands against the western desert, its towers curving like stone caught in the act of melting. Sunlight catches the advancing shields; beyond them, an older kingdom is about to become imperial history.",
+    "detail": "The worldbuilding records Tyserion I, the Golden Blade, defeating Citidaea around six centuries before the campaign. The ancient name Aeldrya and the city’s curved architecture also come from the notes. The approach, troop formations and exact appearance of the siege are reconstructed.",
+    "sources": [
+      "Worldbuilding master document · Imperial history; Citidaea and Aeldrya"
+    ],
+    "look": "The curved towers disappearing into siege smoke.",
+    "alt": "Golden imperial troops advance toward curved sandstone towers through a vast, sunlit desert siege.",
+    "variants": ["citidaea-in-sixteen-bits"]
+  },
+  {
+    "image": "04",
+    "id": "citidaea-in-sixteen-bits",
+    "act": 1,
+    "title": "Citidaea in Sixteen Bits",
+    "line": "An empire, waiting for the next turn.",
+    "date": "Imperial expansion · c. 600 years ago",
+    "place": "The walls of Aeldrya",
+    "record": "Historical record",
+    "style": "16-bit siege panorama",
+    "text": "The same conquest becomes a lost strategy-game panorama: ranks of bright shields, patterned streets and a city whose towers rise beyond the little figures at its gates. At this scale, the distance between a battlefield and a game board becomes uncomfortably small.",
+    "detail": "A pixel-art interpretation of Tyserion’s recorded conquest. The tactical arrangement and siege engines are artistic inventions; this is an illustrated scene, with no playable battle mechanics.",
+    "sources": [
+      "Worldbuilding master document · Imperial history; Citidaea and Aeldrya"
+    ],
+    "look": "The small defenders beneath the enormous city walls.",
+    "alt": "A detailed pixel-art siege of a desert city, with golden armies, siege engines and curved towers.",
+    "variants": ["the-golden-blade"]
+  },
+  {
+    "image": "23",
+    "id": "the-blue-blade-breaks",
+    "act": 1,
+    "title": "The Blue Blade Breaks",
+    "line": "One detail survives the official account.",
+    "date": "Imperial conquest · preserved in a later recording",
+    "place": "The battle for Citidaea",
+    "record": "Recorded vision",
+    "style": "Prismatic memory painting",
+    "text": "Imperial starlight recordings preserve a scarred city of nine towers and a triumphant account of conquest. Korvus’s own crystal holds a different detail: a cool blue sword strikes the imperial shields and bursts into countless splinters. For an instant, the fragments hold the whole scene in suspension.",
+    "detail": "Session 36 describes several starlight recordings, including the scarred city and Korvus’s glimpse of the blue sword shattering against imperial shields. This plate brings those glimpses together. The defender and weapon remain unidentified; the crystalline framing interprets the recordings’ medium.",
+    "sources": ["Active campaign notes · Session 36, imperial history lecture"],
+    "look": "The blue fragments suspended against the advancing gold.",
+    "alt": "A blue sword explodes into luminous splinters against golden shields, framed by facets of a magical recording crystal.",
+    "variants": []
+  },
+  {
+    "image": "05",
+    "id": "the-conquest-of-the-plains",
+    "act": 1,
+    "title": "The Conquest of the Plains",
+    "line": "The harvest is still standing.",
+    "date": "The reign of Tyserion I",
+    "place": "Ghilwyn and the Sweeping Plains",
+    "record": "Historical record",
+    "style": "Woven war tapestry",
+    "text": "The imperial advance reaches the fertile plains: fields, vineyards and the roads between them. A woven border tries to impose order on the scene. Inside it, columns cross the countryside, and the people who tend it find themselves in the path of a new age.",
+    "detail": "Tyserion’s expansion into the Sweeping Plains is recorded. The former kingdom of Ghilwyn is described through its agriculture, culture and diplomacy. This tapestry imagines a campaign through that landscape; it does not depict a separately documented battle or a surviving historical textile.",
+    "sources": ["Worldbuilding master document · Tyserion I; Ghilwyn"],
+    "look": "The threadlike fields continuing beneath the marching ranks.",
+    "alt": "A richly patterned tapestry of imperial armies moving through cultivated plains and vineyards.",
+    "variants": []
+  },
+  {
+    "image": "06",
+    "id": "the-valis-pass",
+    "act": 1,
+    "title": "The Valis Pass",
+    "line": "The mountains allow one road.",
+    "date": "An undated frontier struggle",
+    "place": "Between Aurengate and Zalia",
+    "record": "Reconstructed conflict",
+    "style": "Ink and winter wash",
+    "text": "A narrow road cuts through the snow, and both armies need it. The Valis Pass has long been a contested link between Aurengate and Zalia. This imagined engagement places the struggle beneath mountains large enough to make every banner look temporary.",
+    "detail": "The notes establish the pass’s strategic importance and recurring contention. They give no named battle, combatants, date or victor for this scene. The opposing forces and the red winter sun are illustrative choices.",
+    "sources": [
+      "Worldbuilding master document · Additional locations, Valis Pass"
+    ],
+    "look": "The thin line of soldiers caught between rock and empty air.",
+    "alt": "Ink-painted mountain armies meet along a snowy pass beneath towering peaks and a red sun.",
+    "variants": []
+  },
+  {
+    "image": "07",
+    "id": "spirans-isle",
+    "act": 1,
+    "title": "Spirans Isle",
+    "line": "Every landing meets an older claim.",
+    "date": "A recurring, undated dispute",
+    "place": "The northwestern sea",
+    "record": "Reconstructed conflict",
+    "style": "Maritime oil painting",
+    "text": "Spirans Isle has changed hands more than once. Imperial ambition meets the claims of its native people around an island of ancient shrines. Here, a landing fleet enters the surf while a vast, uncertain presence gathers over the shore.",
+    "detail": "The disputed island, its native population, imperial interest and old shrines are documented. This particular landing and the presence above the coast are inventions. The image leaves the outcome unresolved.",
+    "sources": [
+      "Worldbuilding master document · Additional locations, Spirans Isle"
+    ],
+    "look": "The fragile boats beneath the island’s immense silhouette.",
+    "alt": "Warships approach a shrine-covered island in rough surf beneath a towering, luminous guardian-like presence.",
+    "variants": []
+  },
+  {
+    "image": "08",
+    "id": "the-fallen-island",
+    "act": 2,
+    "title": "The Fallen Island",
+    "line": "A mile of sky comes down.",
+    "date": "Seven or eight years before the campaign",
+    "place": "Southeast of the Tradewind Isles",
+    "record": "Historical record",
+    "style": "Cinematic catastrophe",
+    "text": "The histories remember an island a mile long falling from the sky. Calvera Blackwake’s threat to the Empire casts a shadow across the breadbasket below. Here, the fields are still green when the impossible weight of a whole island enters the clouds above them.",
+    "detail": "The worldbuilding records Blackwake’s threat and a mile-long island that crashed many miles to the southeast seven or eight years before the campaign. The precise terrain, witnesses and instant of impact are reconstructed. The machinery behind the fall remains out of view.",
+    "sources": [
+      "Worldbuilding master document · Floating islands; Calvera Blackwake"
+    ],
+    "look": "The tiny roads and farm plots beneath the falling mass.",
+    "alt": "A colossal floating island plunges toward green farmland, trailing stone and cloud into a vast impact plume.",
+    "variants": ["islandfall"]
+  },
+  {
+    "image": "09",
+    "id": "islandfall",
+    "act": 2,
+    "title": "Islandfall",
+    "line": "The world map has changed.",
+    "date": "Seven or eight years before the campaign",
+    "place": "The imperial breadbasket",
+    "record": "Historical record",
+    "style": "16-bit catastrophe",
+    "text": "Clouds, fields and falling stone resolve into the bright squares of an old role-playing game. The island’s descent interrupts a landscape that might otherwise promise a quiet journey between towns. After this frame, no route through it can be quite the same.",
+    "detail": "A second treatment of the recorded islandfall. The settlements, route layout and moment shown are imagined for this pixel panorama; they are not a replacement for the established world map.",
+    "sources": [
+      "Worldbuilding master document · Floating islands; Calvera Blackwake"
+    ],
+    "look": "The familiar little fields at the edge of the disaster.",
+    "alt": "A colorful pixel panorama of a huge island falling from the clouds toward a rural landscape.",
+    "variants": ["the-fallen-island"]
+  },
+  {
+    "image": "10",
+    "id": "the-thunderforge-inferno",
+    "act": 2,
+    "title": "The Thunderforge Inferno",
+    "line": "The hearthkeepers leave first.",
+    "date": "In the years surrounding the campaign",
+    "place": "Mount Kaja, Echowraith Peaks",
+    "record": "Recorded calamity",
+    "style": "Cutaway of a burning mountain",
+    "text": "For generations, Kojin’s fire sustained the forges. Then its temper changed. The little hearthkeeper spirits abandoned their routes, and the heat that had made a home in the mountain drove its people out. Dwarven refugees carried the memory of Thunderforge down from Mount Kaja.",
+    "detail": "The notes describe Kojin’s corrupted, uncontrolled forgefire and refugees leaving Thunderforge in Serapheld. They do not establish that the entire city or mountain was destroyed. The architectural cutaway imagines the scale of the emergency while preserving that distinction.",
+    "sources": [
+      "Active campaign notes · Session 9, Rorik’s account; Thunderforge appendix",
+      "Worldbuilding master document · Serapheld and Thunderforge"
+    ],
+    "look": "The small evacuation paths beside the rivers of forgefire.",
+    "alt": "A cutaway mountain forge city glows with uncontrolled orange fire while tiny dwarves evacuate along bridges.",
+    "variants": []
+  },
+  {
+    "image": "20",
+    "id": "the-not-so-sunken-kingdom",
+    "act": 2,
+    "title": "The Not-So-Sunken Kingdom",
+    "line": "Some Tuesdays are stranger than others.",
+    "date": "A side chronicle · chronology unplaced",
+    "place": "Port Shimmoth",
+    "record": "Side chronicle",
+    "style": "Storybook gravity disaster",
+    "text": "The tea begins to float. Then the shipyards, the streets and an entire kingdom follow it into the sky. Far below, the world recedes; overhead, the moon waits. Amid the uprooted houses, an unlikely little company tries to make sense of a very inconvenient Tuesday.",
+    "detail": "The side adventure “The Not So Sunken Kingdom” records Port Shimmoth being torn upward toward the moon. Its position in the main campaign chronology is unspecified. The illustration draws on Ephra, T.H.U.N.K., Mugis, Ol’ Sandpapi and the unusual inhabitants of Bossington’s household. Their arrangement is invented.",
+    "sources": [
+      "Active campaign notes · The Not So Sunken Kingdom, side adventure dated 8/2/25"
+    ],
+    "look": "The floating tea service amid the rising streets.",
+    "alt": "Whimsical houses and shipyards rise toward a huge moon while a tiny alchemist, mechanical companion and other travelers float among them.",
+    "variants": []
+  },
+  {
+    "image": "12",
+    "id": "the-night-temple-rescue",
+    "act": 3,
+    "title": "The Night Temple Rescue",
+    "line": "Fifteen feet above the floor, Rorik is still alive.",
+    "date": "Campaign · Session 6",
+    "place": "The temple of Nitriti",
+    "record": "Campaign record",
+    "style": "16-bit dungeon tableau",
+    "text": "Beneath the temple’s celestial stonework, Queen Bargnot’s ritual is already underway. Rorik Flamebeard hangs above the chamber. Daxon, Luigi and Lirielle break into a room of goblin archers and sorcerers, with precious little time to turn a sacrifice into a rescue.",
+    "detail": "The chamber, Bargnot’s ritual and Rorik’s suspension are described in Session 6. The temple belongs to Nitriti, spirit of night. Later notes confirm Rorik’s rescue and Bargnot’s defeat. The tile layout and character sprites are interpretations.",
+    "sources": [
+      "Active campaign notes · Sessions 5–6, temple of Nitriti; Session 9, Rorik"
+    ],
+    "look": "The suspended red-bearded dwarf at the center of the ritual.",
+    "alt": "A pixel-art party interrupts goblin cultists in a dark celestial temple, with a red-bearded dwarf suspended above a ritual floor.",
+    "variants": []
+  },
+  {
+    "image": "11",
+    "id": "the-wilding-hunt",
+    "act": 3,
+    "title": "The Wilding Hunt",
+    "line": "The guards have only one question: you ran here?",
+    "date": "Campaign · Session 12 and the hunt around the Grove",
+    "place": "The roads to Dagan’s Grove",
+    "record": "Campaign record",
+    "style": "Black-ink bestiary woodcut",
+    "text": "The travelers are already fleeing wolves when a monstrous shape passes overhead. At Dagan’s Grove, the guards understand the danger of leading a hunt toward the town. Grimore’s presence turns the surrounding woods into a trap of closed roads, talons and the terrible reach of her cry.",
+    "detail": "Session 12 records the party seeing Grimore overhead while fleeing toward the Grove. The wider notes describe her prolonged rampage. Her wings, talons, enormous scale and caw are grounded in the text; this print’s raptor-like anatomy and exact encounter composition are artistic interpretations.",
+    "sources": [
+      "Active campaign notes · Session 12; Grimore appendix",
+      "Worldbuilding master document · Grimore"
+    ],
+    "look": "The fleeing figures almost lost in the carved forest.",
+    "alt": "A colossal winged, taloned predator looms over fleeing travelers in a stark black-and-cream forest woodcut.",
+    "variants": []
+  },
+  {
+    "image": "13",
+    "id": "the-tide-turns",
+    "act": 3,
+    "title": "The Tide Turns",
+    "line": "A sword hilt touches the lake.",
+    "date": "Campaign · Session 16",
+    "place": "Lake Mirrara",
+    "record": "Campaign record",
+    "style": "Luminous watercolor",
+    "text": "Daxon lowers Tidecaller’s silver hilt into the shallows. Its crossguard curves like a cresting wave; there is no blade. Around him, the corruption begins to recede. Across the water, near the great stone arch and the sapphire crocuses, something enormous answers with a roar.",
+    "detail": "The notes specify the blade-free Tidecaller hilt, the cleansing water, the island arch and the strangely perfect crocuses. The roar belongs to Bill Boggs. Color, gesture and the visible extent of the cleansing are reconstructed from the scene.",
+    "sources": ["Active campaign notes · Session 16, Lake Mirrara"],
+    "look": "The boundary where clear water meets the lake’s corruption.",
+    "alt": "A young warrior kneels in a luminous shallow lake, holding an ornate silver hilt as clear water spreads toward a great stone arch.",
+    "variants": []
+  },
+  {
+    "image": "14",
+    "id": "lightning-at-mirrara",
+    "act": 3,
+    "title": "Lightning at Mirrara",
+    "line": "The fallen thing rises again.",
+    "date": "Campaign · Sessions 17–18",
+    "place": "Lake Mirrara",
+    "record": "Campaign record",
+    "style": "Painted animation climax",
+    "text": "Bill Boggs falls, and lightning calls him back. Electric light pulses through the huge body in the shallows. For a moment, another shape seems to overlap it: a robed darkness with no readable face. The party braces beneath the arch as the lake becomes a field of violet fire.",
+    "detail": "The lake battle includes Bill’s death and lightning-driven return, with an unexplained shadowy figure appearing over him. The notes record the party prevailing. The apparition is deliberately indistinct here; the painting does not identify its nature or connect it to a later revelation.",
+    "sources": [
+      "Active campaign notes · Sessions 17–18, Bill Boggs and the battle at Mirrara"
+    ],
+    "look": "The faceless shape almost lost in the lightning.",
+    "alt": "Four adventurers face a lightning-filled giant in a shallow blue lake, with one indistinct hooded shadow above it and a ruined arch to the left.",
+    "variants": []
+  },
+  {
+    "image": "15",
+    "id": "ruby-and-the-dreadnaught",
+    "act": 3,
+    "title": "Ruby & the DreadNaught",
+    "line": "The forest has a defender. So does the shadow.",
+    "date": "Campaign · Sessions 20–21",
+    "place": "Que’Rubra’s shrine, Ebon Forest",
+    "record": "Campaign record",
+    "style": "Mythic duel in oil",
+    "text": "Ruby stands sixty feet tall among the black-barked trees, an oak spirit holding the line around her shrine. Across the cratered ground, an armored centaur levels a spear of shadow. The party enters the battle with a burst of blue fire, and with the healing Ruby will need to survive it.",
+    "detail": "The notes describe Que’Rubra, called Ruby, fighting the DreadNaught; the party uses a blue fireball grenade, and Rorik and Lirielle help heal her. The armored centaur is defeated and melts away. The painting enlarges the duel’s staging while retaining its recorded participants and weapons.",
+    "sources": [
+      "Active campaign notes · Sessions 20–21, Que’Rubra and the DreadNaught"
+    ],
+    "look": "The tiny party beneath Ruby’s living canopy.",
+    "alt": "A towering oak spirit with luminous markings battles an armored centaur wielding a shadow spear, as small adventurers move through a black-barked forest.",
+    "variants": []
+  },
+  {
+    "image": "16",
+    "id": "the-hungering-cinder",
+    "act": 4,
+    "title": "The Hungering Cinder",
+    "line": "The market is burning. Something inside it is laughing.",
+    "date": "Campaign · Sessions 22–24",
+    "place": "Ebon Vale",
+    "record": "Campaign record",
+    "style": "Dark cinematic painting",
+    "text": "Wagons burn across the marketplace. Elira Voss and the guards hold what ground they can as ash, bone and flame gather into Vraxxis. Armor becomes a furnace around the soldiers caught within it. Beyond the fighting, the monastery’s improvised barricades shelter the people who have nowhere else to go.",
+    "detail": "The siege notes describe Vraxxis as an unstable form of ember, ash and bone, and record Elira, Rickard and Mira defending the market. The monastery barricades come from the same crisis. The painting does not explain who or what lies behind the attack.",
+    "sources": [
+      "Active campaign notes · Sessions 21–24, Ebon Vale siege and Vraxxis"
+    ],
+    "look": "The small line of defenders beneath the ash-lit smoke.",
+    "alt": "An immense, unstable apparition of bone, ash and fire rises above a burning market while armored defenders hold the street.",
+    "variants": []
+  },
+  {
+    "image": "17",
+    "id": "a-fireball-in-a-bottle",
+    "act": 4,
+    "title": "A Fireball in a Bottle",
+    "line": "For one impossible second, the fire changes direction.",
+    "date": "Campaign · Session 24",
+    "place": "The burning streets of Ebon Vale",
+    "record": "Campaign record",
+    "style": "Cinematic counterspell",
+    "text": "Vraxxis sends a fireball into the battle. Luigi raises his vessel, and the spell folds inward. The flame that should have filled the street narrows to a blazing thread and vanishes inside. It is a small opening in a terrible night, and the party makes it count.",
+    "detail": "The Session 24 notes explicitly record Luigi counterspelling by drawing the fireball into his lamp. The vessel’s design, Luigi’s clothing and the visible flow of magic are artistic choices. Its deeper associations remain outside this chronicle.",
+    "sources": ["Active campaign notes · Session 24, Luigi’s counterspell"],
+    "look": "The enormous arc of fire narrowing at the vessel’s mouth.",
+    "alt": "A traveler raises a small magical vessel as an enormous fireball bends into a narrow spiral and pours inside it.",
+    "variants": []
+  },
+  {
+    "image": "18",
+    "id": "storm-over-ebon-vale",
+    "act": 4,
+    "title": "Storm over Ebon Vale",
+    "line": "Lirielle answers with the sky.",
+    "date": "Campaign · Session 24",
+    "place": "Ebon Vale",
+    "record": "Campaign record",
+    "style": "Storm-lit heroic painting",
+    "text": "Above the fire, clouds gather. Lirielle calls down the lightning that ends Vraxxis, and for an instant the whole town appears in the white light of the strike. There will be names to mourn and streets to rebuild. First, there is the sound of the storm over the burning roofs.",
+    "detail": "Session 24 records Lirielle killing Vraxxis with her lightning storm; the following session turns to the losses and rebuilding. Her stance, the storm’s scale and the placement of companions are reconstructed. Lumina appears as her celestial fox companion.",
+    "sources": [
+      "Active campaign notes · Sessions 24–25, Vraxxis defeated and the aftermath"
+    ],
+    "look": "The fox’s pale silhouette beneath the falling lightning.",
+    "alt": "An elven druid and a luminous white fox stand before burning rooftops as a colossal lightning strike tears through an ember-filled apparition.",
+    "variants": []
+  },
+  {
+    "image": "19",
+    "id": "the-spar-at-dawn",
+    "act": 4,
+    "title": "The Spar at Dawn",
+    "line": "Cindertongue meets the morning sun.",
+    "date": "Campaign · Session 30",
+    "place": "The sparring ground",
+    "record": "Campaign record",
+    "style": "Duel in gold and charcoal",
+    "text": "Daxon’s blade scorches General Vath Enverez’s aurium armor. Vath answers with a shield bash and a brilliant solar strike, bringing the spar to its end. Healing follows, then a handshake. After so many battles fought for survival, this one leaves both opponents standing together.",
+    "detail": "The notes record Daxon’s duel with Vath, including Cindertongue’s heat, Vath’s radiant response, Daxon being brought down and healed, and their handshake afterward. The painting shows the exchange rather than an invented victory for Daxon.",
+    "sources": [
+      "Active campaign notes · Session 30, Daxon and General Vath Enverez"
+    ],
+    "look": "The meeting of red flame and pale solar light.",
+    "alt": "A young swordsman with a red-hot blade faces a golden-armored general in a brilliant dawn-lit sparring duel.",
+    "variants": []
+  },
+  {
+    "image": "21",
+    "id": "war-beyond-the-western-sea",
+    "act": 5,
+    "title": "Beyond the Western Sea",
+    "line": "An imagined war at the edge of the charts.",
+    "date": "A possible conflict · no recorded date",
+    "place": "Waters beyond the western coast",
+    "record": "Imagined conflict",
+    "style": "Woodblock of a storm fleet",
+    "text": "Across the sea, old houses bargain with powers the Empire describes uneasily. Imagine those tensions reaching the water: imperial gold beneath storm clouds, strange standards above low ships, and enormous animal shapes gathering where the horizon should be. The chronicle has no battle name to give this scene.",
+    "detail": "The overseas notes describe decentralized houses, shapeshifting traditions and unsettling pact magic. Imperial accounts of them are partisan. This naval clash, its fleets and the spectral forms are speculative art. No such war, alliance, attack or outcome is established by the source material.",
+    "sources": [
+      "Worldbuilding master document · Distant powers",
+      "Active campaign notes · Session 36, geography lecture"
+    ],
+    "look": "The animal forms forming and dissolving in the cloud banks.",
+    "alt": "An imagined naval battle in a stylized woodblock sea, with golden ships confronting darker fleets under spectral animal-shaped clouds.",
+    "variants": []
+  },
+  {
+    "image": "22",
+    "id": "the-eastern-stormline",
+    "act": 5,
+    "title": "The Eastern Stormline",
+    "line": "What if the sea became the battlefield?",
+    "date": "A possible conflict · no recorded date",
+    "place": "The eastern approaches",
+    "record": "Imagined conflict",
+    "style": "Art nouveau war at sea",
+    "text": "The distant sorcerer houses belong to a world of trade, rivalries and volatile power. This vision lets those pressures break over an imperial fleet. Ribbons of color arc between the sails, the waves curl into impossible forms, and every vessel seems poised between a spell and a storm.",
+    "detail": "The sources establish distant mercantile sorcerer houses and an unstable political landscape. They do not record this engagement. The ships, spellwork, combatants’ arrangement and escalation to war are invented possibilities, with no implied canonical victor.",
+    "sources": [
+      "Worldbuilding master document · Distant powers",
+      "Active campaign notes · Session 36, geography lecture"
+    ],
+    "look": "The spell-lines woven into the curves of the waves.",
+    "alt": "An imagined magical sea battle in ornate art nouveau curves, with luminous sorcerous fleets and sweeping ribbons of colored lightning.",
+    "variants": []
+  },
+  {
+    "image": "24",
+    "id": "only-the-white-of-bone",
+    "act": 5,
+    "title": "Only the White of Bone",
+    "line": "A warning has no date.",
+    "date": "An omen · unfulfilled in this chronicle",
+    "place": "A place the vision does not name",
+    "record": "Omen",
+    "style": "Charcoal and silver",
+    "text": "The earliest warnings speak of an endless night, and of a terrible whiteness within it. This final plate gives that fear a horizon: a bone-pale moon, a darkened world, and figures too small to know whether they are witnessing an ending or a dream. The page offers no answer.",
+    "detail": "The opening campaign notes contain the image of eternal darkness and chilling white bone. This is a visual interpretation of an omen, not a record of a completed cataclysm or a prediction of the campaign’s outcome. Its cause, mechanism and possible meaning remain veiled.",
+    "sources": ["Active campaign notes · Opening sessions, cryptic warnings"],
+    "look": "The narrow line of travelers beneath the bone-white sky.",
+    "alt": "A tiny procession crosses a dark landscape under an enormous bone-pale moon in charcoal and silver.",
+    "variants": []
+  }
+]

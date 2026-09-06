@@ -7,6 +7,7 @@ import { Dialog, DialogContent, DialogTitle, DialogDescription, DialogClose } fr
 import { Sheet, SheetContent, SheetTitle, SheetDescription } from '@/components/ui/sheet';
 import { Slider } from '@/components/ui/slider';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
+import { BookNavigation } from '@/components/book-navigation';
 import artworks from './artworks.json';
 import { chapters, stops, plateLabels, worldPins } from './journey';
 
@@ -118,7 +119,7 @@ export default function Home() {
     <div className="ambient-wash" aria-hidden="true"/>
     <header className="masthead">
       <button className="wordmark" onClick={() => go(0)} aria-label="Valisar, return to the beginning"><Compass size={26}/><span>VALISAR</span></button>
-      <span className="masthead-note">An atlas of places, spirits & stars</span>
+      <BookNavigation current="atlas" />
       <nav aria-label="Artbook views">
         <Button variant="ghost" onClick={() => setContentsOpen(true)} aria-label="Open chapters"><BookOpen size={16}/><span>Chapters</span></Button>
         <Button variant="ghost" onClick={() => setCollectionOpen(true)} aria-label="Browse all 28 artworks"><Grid2X2 size={16}/><span>The collection</span></Button>

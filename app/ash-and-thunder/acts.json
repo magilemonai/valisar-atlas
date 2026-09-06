@@ -1,0 +1,44 @@
+[
+  {
+    "roman": "I",
+    "short": "Rupture",
+    "title": "The breaking of the world",
+    "line": "History leaves a wound.",
+    "intro": "A continent breaks, and the old histories begin to disagree."
+  },
+  {
+    "roman": "II",
+    "short": "The Golden Blade",
+    "title": "Under the Golden Blade",
+    "line": "Every conquest has more than one witness.",
+    "intro": "Imperial triumph, fractured memories, and the places that resist a single account."
+  },
+  {
+    "roman": "III",
+    "short": "Sky & Stone",
+    "title": "When the earth gives way",
+    "line": "The ground is a promise. Sometimes it breaks.",
+    "intro": "An island falls, a mountain burns, and one very strange kingdom rises."
+  },
+  {
+    "roman": "IV",
+    "short": "Forest & Fang",
+    "title": "The wild refuses silence",
+    "line": "Follow the road until it begins to hunt you.",
+    "intro": "The campaign enters the temples, haunted waters and living forests of Valisar."
+  },
+  {
+    "roman": "V",
+    "short": "Fire & Storm",
+    "title": "The night Ebon Vale burned",
+    "line": "A city survives one impossible moment at a time.",
+    "intro": "Fire takes the streets. The heroes answer with a vessel, a storm, and the will to keep standing."
+  },
+  {
+    "roman": "VI",
+    "short": "Unwritten Wars",
+    "title": "Beyond the reach of the record",
+    "line": "Some pages carry a question.",
+    "intro": "Two imagined overseas wars and an unresolved omen. These pages do not establish what happens next."
+  }
+]

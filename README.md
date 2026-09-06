@@ -1,6 +1,11 @@
 # Valisar · A Living Atlas
 
-A guided interactive artbook of 28 maps and paintings from Cody Wymore’s original homebrew world. Includes chapter navigation, regional map pins, an artwork collection, source notes, a zoomable viewer, and comparisons between map styles.
+Two guided interactive artbooks from Cody Wymore’s original homebrew world, hosted together on [Valisar’s GitHub Pages site](https://magilemonai.github.io/valisar-atlas/).
+
+- **Living Atlas** at `/`: the original 28 maps and paintings, with regional map pins, chapter navigation and source notes.
+- **Ash & Thunder** at `/ash-and-thunder/`: 24 illustrations of wars, cinematic battles, cataclysms and imagined overseas conflicts, arranged into six chapters.
+
+A collection switch in both headers connects the books. Each retains its own visual style, plate links, zoomable viewer and comparisons between alternate treatments.
 
 ## Local development
 
@@ -25,8 +30,14 @@ The published files are in `dist/github-pages`. The packaging step flattens the 
 
 ## Content
 
-Guided passages live in `app/journey.ts`; artwork titles, captions, and notes are in `app/artworks.json`. Display images and thumbnails are in `public/art`.
+Atlas passages live in `app/journey.ts`; atlas titles, captions and notes are in `app/artworks.json`. Its original images remain in `public/art`.
 
-Plates 27 and 28 use deliberately cryptic text. Plate 28’s distant lands are unnamed in its display artwork. The original campaign research and unabridged artwork remain outside this site project.
+The history section lives in `app/ash-and-thunder/`. Its `plates.json` and `acts.json` contain captions, alt text, record classifications, source references and chapter introductions. Its 24 display images and 24 thumbnails live in `public/art/conflicts`.
+
+Chronicle styles are scoped to `.chronicle-theme`, including dialog portals, and use `conflict-` class names. Shared navigation is in `components/book-navigation.tsx`. Public links use `lib/site-path.ts` to respect the GitHub Pages repository prefix.
+
+The packaging step supplies directory indexes for direct route access and validates asset and navigation links in every exported HTML page. Vinext exports without its trailing-slash redirect so both routes can prerender successfully.
+
+Plates 27 and 28 use deliberately cryptic text. Plate 28’s distant lands are unnamed in its display artwork. Ash & Thunder also preserves the late-campaign veil, distinguishes artistic reconstructions from recorded events, and labels its two overseas wars as imagined. Its final omen remains unresolved. The original campaign research, generation prompts and unabridged artwork remain outside this site project.
 
 When first publishing this site to a new public repository, use a fresh copy of the current files without the local Git history. Earlier local revisions contain the unabridged versions of plates 27 and 28.
