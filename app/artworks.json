@@ -1,0 +1,354 @@
+[
+  {
+    "id": "01",
+    "title": "Valisar · The remembered kingdoms",
+    "kind": "Continental map",
+    "style": "Ink & parchment",
+    "region": "Valisar",
+    "lore": "Aurengate crowns the northern continent; Runelara lies between the Sweeping Plains and Mystarion. The Citidaea occupies the western Fuhran Desert. Ebon Vale and Ebon Forest sit inside the southern Shattered Ridge. The Tradewind Isles float above the imperial breadbasket.",
+    "sources": [
+      "Worldbuilding: Nations and Regions; Former Kingdoms; Disputed Territories; Calvera Blackwake",
+      "Campaign: Sessions 9, 30, 34, 36; embedded regional map",
+      "User-supplied Valisar_World_Map_1_2.png (preferred overall layout)"
+    ],
+    "interpretation": "The broad northern mainland, northern mountain spine, western desert, eastern Zalia and southern peninsula follow the user's preferred early world map. Lake Mirrara, Verdant Deeps, Mount Kaja and airborne island details extend the map using newer lore. Exact distances remain illustrative."
+  },
+  {
+    "id": "02",
+    "title": "Valisar · The cartridge overworld",
+    "kind": "Continental map",
+    "style": "16-bit pixel art",
+    "region": "Valisar",
+    "lore": "The same proposed continental geography as the parchment atlas, reinterpreted as an early console RPG overworld. Major settlements, forest, desert, mountains, and airborne isles retain their relationships.",
+    "sources": [
+      "Worldbuilding: Nations and Regions; Former Kingdoms",
+      "Campaign: Sessions 30, 34, 36; regional map",
+      "User-supplied Valisar_World_Map_1_2.png"
+    ],
+    "interpretation": "Direct pixel-art reimagining of the author's preferred overall layout. Newer lore details are added; distances and minor terrain remain illustrative."
+  },
+  {
+    "id": "03",
+    "title": "Ebon Vale · Beyond the Shattered Ridge",
+    "kind": "Regional map",
+    "style": "16-bit pixel art",
+    "region": "Ebon Vale",
+    "lore": "The original regional map places Ebon Vale on the southern coast, Ebon Forest within a horseshoe of mountains, Mystarion beyond the ridge, and the Obsidian Sea to the east.",
+    "sources": [
+      "Campaign: embedded image 19; Sessions 4, 9-12"
+    ],
+    "interpretation": "The source map's outline and principal placements are retained. Trails, building sprites, and small terrain features are interpretive."
+  },
+  {
+    "id": "04",
+    "title": "The southern reach · A traveller's map",
+    "kind": "Regional map",
+    "style": "Ink & parchment",
+    "region": "Ebon Vale",
+    "lore": "Ebon Vale faces the southern sea; the Shattered Ridge curves around Ebon Forest. Que'Rubra directs the party north over the ridge to Mystarion.",
+    "sources": [
+      "Campaign: embedded map, image 19; Sessions 9-12"
+    ],
+    "interpretation": "A cartographic style study of the existing region. New trails and decorative features supplement the source outline."
+  },
+  {
+    "id": "05",
+    "title": "Ebon Vale · Morning before the fires",
+    "kind": "Town map",
+    "style": "16-bit pixel art",
+    "region": "Ebon Vale",
+    "lore": "The market, Braxon's forge, the Lamn home, Charmed Chaises, the Dancing Pig, Brother Soren's wooden chapel and Spirit Grove define the starting town. Dwarven refugees from Thunderforge shelter at the chapel.",
+    "sources": [
+      "Campaign: Session 3, Ebonvale / Key Locations; Sessions 9, 22"
+    ],
+    "interpretation": "A pre-siege town plan. Street layout and building footprints are newly designed; named institutions come from the notes."
+  },
+  {
+    "id": "06",
+    "title": "Ebon Vale · A home worth defending",
+    "kind": "Town map",
+    "style": "Watercolor & storybook",
+    "region": "Ebon Vale",
+    "lore": "A peaceful version of the starting town emphasizes the Lamn family, village shops, and the shared sanctuary of Eilwys and Kojin.",
+    "sources": [
+      "Campaign: Session 3 / Key Locations; Sessions 22, 27"
+    ],
+    "interpretation": "Retains plate 05's invented street plan. The garden's brazier reflects the later shared ceremony, shown in an idealized peaceful town."
+  },
+  {
+    "id": "07",
+    "title": "Mystarion · The Forest of Whispers",
+    "kind": "Regional map",
+    "style": "Woodcut & botanical ink",
+    "region": "Mystarion",
+    "lore": "Mystarion contains many forest types. Dagan's Grove centers on the Heartwood, Lake Mirrara lies due east, and the portal to the Roothold is in the Verdant Deeps far northwest. Cernis, Taranis, and Grimore shape the forest.",
+    "sources": [
+      "Worldbuilding: Mystarion; Great Spirits; Near-Spirit rebellion",
+      "Campaign: Sessions 12-19, 32"
+    ],
+    "interpretation": "A symbolic woodland map. Forest subregions, paths, and exact boundaries are interpretive. Spirit figures are marginal emblems rather than literal settlement locations."
+  },
+  {
+    "id": "08",
+    "title": "Dagan's Grove · Under the Heartwood",
+    "kind": "City map",
+    "style": "16-bit pixel art",
+    "region": "Mystarion",
+    "lore": "The Heartwood has a trunk a hundred feet wide. Its ground floor is solid wood; the Cord of Elders occupies the second and third levels. Markets and neighborhoods spiral around it.",
+    "sources": [
+      "Campaign: Sessions 12-14; Places of Interest in Dagan's Grove"
+    ],
+    "interpretation": "A new compact city plan. Lake Mirrara is shown outside the city to the east as a small regional edge detail."
+  },
+  {
+    "id": "09",
+    "title": "Dagan's Grove · The Twisted Canopy",
+    "kind": "City map",
+    "style": "Watercolor & storybook",
+    "region": "Mystarion",
+    "lore": "The city blends elven architecture with organic forest growth and bioluminescent flora. The Guarded Gardens is Kaelen Goldeneye's hallowed neutral sanctuary.",
+    "sources": [
+      "Campaign: Sessions 13-14; Dagan's Grove Overview"
+    ],
+    "interpretation": "An elevated painted interpretation of plate 08's invented city plan. Building details and bridge engineering are artistic."
+  },
+  {
+    "id": "10",
+    "title": "Lake Mirrara · The Font",
+    "kind": "Encounter map",
+    "style": "16-bit pixel art",
+    "region": "Mystarion",
+    "lore": "Lake Mirrara is shallow, only four to five feet deep, with an island and giant stone arch at its center. Geometrically perfect sapphire crocuses grow beside its powerful leyline, the Font.",
+    "sources": [
+      "Campaign: Sessions 13, 16-19"
+    ],
+    "interpretation": "An illustrative encounter layout, without a calibrated battle grid. The corrupt northern rim and cleansing southern arc evoke the Bill Boggs encounter."
+  },
+  {
+    "id": "11",
+    "title": "Lake Mirrara · Sapphire crocus survey",
+    "kind": "Encounter map",
+    "style": "Botanical ink & watercolor",
+    "region": "Mystarion",
+    "lore": "Sapphire crocuses can replace perfect sapphires in powerful enchantments. Their trafficking through Port Chantier helped fuel the Citidaea's spirit-containment research.",
+    "sources": [
+      "Worldbuilding: Mystarion; The Dusk / Bill Boggs",
+      "Campaign: Sessions 13, 16, 29-30"
+    ],
+    "interpretation": "A fictional naturalist's sheet using plate 10's lake shape. Plant anatomy and the survey's graphic notation are illustrative."
+  },
+  {
+    "id": "12",
+    "title": "The Citidaea · City of Liquid Stone",
+    "kind": "City cutaway",
+    "style": "Architectural ink & gouache",
+    "region": "Citidaea",
+    "lore": "The city occupies a coastal canyon, with ocean west and desert east. Its sandstone towers follow leylines, joined by glass and brass bridges. The nine Seals have a politically scrambled arrangement.",
+    "sources": [
+      "Worldbuilding: The Citidaea / Hierarchy of Seals",
+      "Campaign: Sessions 34-36; image 31"
+    ],
+    "interpretation": "A proposed arrangement of nine Seal towers and shared facilities. Tower numbering deliberately does not run clockwise. Cutaway depth and corridors are artistic."
+  },
+  {
+    "id": "13",
+    "title": "The Citidaea · Nine Seals at dusk",
+    "kind": "City map",
+    "style": "16-bit pixel art",
+    "region": "Citidaea",
+    "lore": "Sandstone buildings look poured rather than built. Floating platforms, blue fountains, brass-and-glass bridges, and nine rival Seals form the arcane research city.",
+    "sources": [
+      "Campaign: Sessions 34-36",
+      "Worldbuilding: The Citidaea"
+    ],
+    "interpretation": "A pixel-art style iteration of plate 12. Nine-tower layout remains proposed rather than canon."
+  },
+  {
+    "id": "14",
+    "title": "The Citidaea · Before and after the Ninth Seal",
+    "kind": "Historical map study",
+    "style": "Twin engraved maps",
+    "region": "Citidaea",
+    "lore": "A starlight recording shows a greener northern canyon and eight Seal colors before conquest. A later recording shows damaged towers, cold crystal lighting, and imperial incorporation under Imperator Wexx.",
+    "sources": [
+      "Campaign: Session 36, Pre-Sakazarac Graduation Ceremony; Alignment of Imperator Wexx"
+    ],
+    "interpretation": "An explicit historical reconstruction using the recorded scenes. Both panels share an invented plan; no precise year or boundary is asserted."
+  },
+  {
+    "id": "15",
+    "title": "The Tradewind Isles · Blackwake's sky",
+    "kind": "Sky-island chart",
+    "style": "Nautical watercolor",
+    "region": "Tradewind Isles",
+    "lore": "Calvera Blackwake's islands float 1,500 feet above the Sweeping Plains on ancient anti-gravity machina. One mile-long island crashed to the southeast seven or eight years ago. Her seat is the Coral Throne.",
+    "sources": [
+      "Worldbuilding: Mad Pirate Queen Calvera Blackwake",
+      "Campaign: Sessions 29-30, 36"
+    ],
+    "interpretation": "Island outlines, harbor placement, and the Coral Throne's appearance are designed here. The southeast impact and airborne altitude come from the notes."
+  },
+  {
+    "id": "16",
+    "title": "The Tradewind Isles · Above the harvest",
+    "kind": "Sky-island map",
+    "style": "16-bit pixel art",
+    "region": "Tradewind Isles",
+    "lore": "The islands' ancient machinery gives Blackwake leverage over the Empire's food supply. Floating roots, mossy chains, pirate flags, and the southeast impact make the setting recognizable.",
+    "sources": [
+      "Campaign: Sessions 29-30",
+      "Worldbuilding: Calvera Blackwake"
+    ],
+    "interpretation": "A pixel-art variation of plate 15's proposed island arrangement."
+  },
+  {
+    "id": "17",
+    "title": "The Zalian Coast · Where the water bruises",
+    "kind": "Coastal map",
+    "style": "Engraving & sea ink",
+    "region": "Zalia",
+    "lore": "Zalia's ports and navy honor the ocean spirits. The eastern Ghostly Marshes and unnatural coastal rot threaten ships and fish. Marin asks Daxon to cleanse the coast; Serratta belongs to the deep current and Sunken Empire.",
+    "sources": [
+      "Worldbuilding: Zalia; Ghostly Marshes; Marin; Serratta",
+      "Campaign: Sessions 27, 29-30"
+    ],
+    "interpretation": "The coastal outline, ports without names, wrecks, and submerged ruin arrangement are illustrative. No new named cities are introduced."
+  },
+  {
+    "id": "18",
+    "title": "Mount Kaja · The forge beneath the mountain",
+    "kind": "Mountain cutaway",
+    "style": "Dwarven ink & ember wash",
+    "region": "Serapheld",
+    "lore": "Thunderforge, capital of Serapheld, lies in and beneath Mount Kaja, tallest of the Echowraith Peaks. Kojin's once-dutiful forgefire now rages; displaced dwarves carry their traditions to Ebon Vale.",
+    "sources": [
+      "Worldbuilding: Echowraith Peaks; Kojin",
+      "Campaign: Sessions 9, 22, 36; dwarven appendix"
+    ],
+    "interpretation": "The halls, tunnels, and underground engineering are proposed. The present-day peak is largely bare; an inset recalls the old snowy mountain described in a knowledge crystal."
+  },
+  {
+    "id": "19",
+    "title": "The Temple of Nitriti · Cathedral of stars",
+    "kind": "Dungeon map",
+    "style": "Ink & parchment",
+    "region": "Ebon Vale",
+    "lore": "The temple includes a statue puzzle requiring crown, cloak and scepter, overlapping circular stone doors, a pit chamber, a room of hidden script, a ritual sanctuary, and a secret obsidian observatory with an orrery.",
+    "sources": [
+      "Campaign: Sessions 5-7, 31-33"
+    ],
+    "interpretation": "A proposed pre-collapse floor plan synthesizing the documented rooms. Connections and dimensions are new; this is an illustrative dungeon map without a calibrated grid."
+  },
+  {
+    "id": "20",
+    "title": "Lirielle's map · The Mirrored Sky",
+    "kind": "Celestial map",
+    "style": "Astronomical illumination",
+    "region": "Near-Spirit",
+    "lore": "Lirielle's Star Map has three levels: surface chart, Mirrored Sky, and Near-Spirit. Activated gates connect Ebon Vale, Nitriti's temple and Lake Mirrara. The Weaver's misplaced star changes the constellation into the Deceiver.",
+    "sources": [
+      "Campaign: Sessions 1, 14, 16, 19-20, 31-33, 36"
+    ],
+    "interpretation": "An artist's visualization of the map's layered structure. Constellation shapes are invented; this does not assert a complete astronomical system or an exact route to the Eldspyre."
+  },
+  {
+    "id": "21",
+    "title": "The Not-So-Sunken Kingdom · It happened on a Tuesday",
+    "kind": "Cataclysm map",
+    "style": "Linocut & diagrammatic ink",
+    "region": "Sunken Empire",
+    "lore": "In the one-shot, canal workers at Shimmoth investigate the Bossington Ark at Tidebreaker Forge. Gravity becomes strange, a moon appears just above the town, and the kingdom is torn upward from the earth.",
+    "sources": [
+      "Campaign: SIDE QUEST ONE SHOT (8/2/25), The Not-So-Sunken Kingdom"
+    ],
+    "interpretation": "A dramatic cutaway of the one-shot, without asserting when it occurs in the main timeline. The text uses both Shimmoth and Shimmish; this plate uses the opening name Shimmoth."
+  },
+  {
+    "id": "22",
+    "title": "The Roothold · Roads between worlds",
+    "kind": "Spirit-realm map",
+    "style": "Woven-map folk art",
+    "region": "Near-Spirit",
+    "lore": "Althea and Caelum lead the Roothold resistance in the Near-Spirit alongside great spirits. The real portal is deep in the Verdant Deeps, northwest of Dagan's Grove; the Star Map helps reality remember.",
+    "sources": [
+      "Campaign: Sessions 31-33; Parking Lot / Lirielle's Parents",
+      "Worldbuilding: Rebellion in the Near-Spirit"
+    ],
+    "interpretation": "A symbolic path map of the Near-Spirit, not measured physical geography. The camp's layout and visible pathways are speculative."
+  },
+  {
+    "id": "23",
+    "title": "The Solar Wind · Festival of Radiant Dawn",
+    "kind": "World art",
+    "style": "Gouache cinematic painting",
+    "region": "Ebon Vale",
+    "lore": "Masque arrives aboard a silverwood-and-gold cathedral airship with stained-glass towers, escorted by four crimson-and-gold ships. Golden bridges descend toward the town as the Festival of Radiant Dawn begins.",
+    "sources": [
+      "Campaign: Session 27, Arrival of the Solar Wind; Session 28"
+    ],
+    "interpretation": "A painting of the recorded arrival. Camera position, exact vessel design, and crowd staging are artistic."
+  },
+  {
+    "id": "24",
+    "title": "Libra Stellae · What the stars remember",
+    "kind": "World art",
+    "style": "Luminous architectural painting",
+    "region": "Citidaea",
+    "lore": "The Citidaea's library is a cathedral of frozen light. Thousands of crystal alcoves surround a deep circular chamber, researchers ride floating platforms, and touch reveals memories recorded by the stars.",
+    "sources": [
+      "Campaign: Sessions 35-36"
+    ],
+    "interpretation": "An architectural painting of the library. Interior proportions and alcove geometry are visual development."
+  },
+  {
+    "id": "25",
+    "title": "Que'Rubra · Her children in the boughs",
+    "kind": "World art",
+    "style": "Folktale watercolor",
+    "region": "Ebon Vale",
+    "lore": "Que'Rubra is an ancient oak spirit and Nitriti's lieutenant. Her children Fin and Bin are joyful twig spirits. Her bark bears runes, her hair is living foliage, and she carries the Moonlit Thorn.",
+    "sources": [
+      "Campaign: Sessions 4, 8-9, 31; image 18"
+    ],
+    "interpretation": "A peaceful forest portrait before the capture. The children's precise twig anatomy and grove staging are illustrative."
+  },
+  {
+    "id": "26",
+    "title": "Marin · The willing blade",
+    "kind": "World art",
+    "style": "Japanese woodblock fantasy",
+    "region": "Zalia",
+    "lore": "Daxon swears to Marin to cleanse the Zalian Coast. Tidecaller's silver crossguard resembles a cresting wave. Marin is a woman of clear water bearing a long spear; spirit-forged blades are partners with their wielders.",
+    "sources": [
+      "Worldbuilding: Marin; Daxon Lamn",
+      "Campaign: Sessions 5, 27, 36 / The Willing Blade"
+    ],
+    "interpretation": "An original woodblock composition inspired by the oath and its themes. Daxon's appearance is lightly invented because the notes emphasize his age and role."
+  },
+  {
+    "id": "27",
+    "title": "The Clock Angel · An unanswered vision",
+    "kind": "World art",
+    "style": "Surreal celestial painting",
+    "region": "Uncharted visions",
+    "lore": "An unblinking eye, wings, turning rings, and clockwork gears: fragments of the presence Luigi calls his patron. The vision offers a shape to remember, while its meaning remains out of reach.",
+    "sources": [
+      "Worldbuilding: Luigi Bonemoon; image 15",
+      "Campaign: Sessions 32-33"
+    ],
+    "interpretation": "A painting of Luigi's subjective vision. Its symbols leave the presence's identity, nature, and purpose unspoken."
+  },
+  {
+    "id": "28",
+    "title": "Beyond Valisar · The unwritten shores",
+    "kind": "Fragmentary world map",
+    "style": "Weathered expedition atlas",
+    "region": "Beyond the known shores",
+    "lore": "Beyond the familiar coast, the ink thins. A broken shoreline, the trace of a distant tower, a name the page no longer yields. The fragments suggest a wider world, leaving its secrets in the mist.",
+    "sources": [
+      "Campaign: Session 36",
+      "Worldbuilding: notes on distant lands"
+    ],
+    "interpretation": "An imagined fragment of a larger atlas. Faded contours and unnamed shores suggest possibilities; the distant lands remain deliberately unresolved in this view."
+  }
+]
